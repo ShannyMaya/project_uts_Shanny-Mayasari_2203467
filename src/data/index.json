@@ -1,0 +1,48 @@
+{
+    "biodata": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Date and Place of Birth",
+            "description": "I was born in Sukabumi, on 7th October 2004"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Hobbies",
+            "description": "I like to draw, playing games, and sleeping"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "Motto",
+            "description": "Everything will be okay, just do it"
+        }
+    ],
+    "education": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Elementary School",
+            "description": "SDN 4 Cicurug"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "Junior High School",
+            "description": "SMPN 1 Cicurug"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Senior High School",
+            "description": "SMAN 1 Cicurug"
+        },
+        {
+            "id": "4",
+            "src": "./img/placeholder-image-3.png",
+            "title": "College",
+            "description": "Universitas Pendidikan Indonesia"
+        }
+    ]
+}
